@@ -1,0 +1,11 @@
+
+Banco de Dados
+NAPP: Nomes Aleatórios Para Personagens.
+
+
+Padrão
+- Nome e Sobrenome possuem 7 caracteres.
+- As tabelas possuem o prefixo "tab_".
+- Todos os campos são NOT NULL.
+
+

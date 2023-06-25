@@ -1,0 +1,13 @@
+
+
+CREATE TABLE tab_personagem(
+	id int(4) AUTO_INCREMENT NOT NULL, 
+	nome varchar(7) NOT NULL, /* Valor padrão para Nome e Sobrenome */
+    sobrenome varchar(7) NOT NULL,
+    registro varchar(20) NOT NULL,
+    PRIMARY KEY (id)
+)
+
+CREATE VIEW NomeA as SELECT * FROM tab_personagem WHERE nome LIKE "a%";
+
+ALTER VIEW nomea as SELECT id as ID, nome as Nome, sobrenome as Sobrenome, registro as Registro FROM tab_personagem WHERE nome LIKE "a%"; 
