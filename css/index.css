@@ -1,0 +1,92 @@
+
+
+
+.principal{
+   background-color: white; 
+    width: 450px;
+    height: 617px;
+    
+    margin-left: 450px;
+    margin-top: 0px;
+}
+
+table{
+    margin-left: 32px;
+}
+
+td{
+    border: 1px solid;
+}
+
+#nomeNovo{
+    /*background-color: lightgray;*/
+    margin-top: 10px;
+}
+
+.formUM{
+/*    border: 1px solid black; */
+    height: 90px;
+    width: 350px;
+    padding: 10px;
+    margin-left: 45px;
+}
+
+#a{
+    margin-left: 40px;
+}
+
+#pAleatorias{
+ margin-left: 05px;
+ margin-top: 8px;
+ margin-bottom: 10px;
+
+ height: 32px;
+ width: 240px;
+
+ border-color: royalblue;
+}
+
+#gerarBTN{
+    margin-left: 260px;
+    margin-top: -42px;
+    width: 70px;
+    height: 33px;
+}
+
+.formDOIS{
+    margin-left: 30px;
+}
+
+#nomeNovo{
+    height: 30px;
+    border-color: royalblue;
+}
+
+
+#salvarBTN{
+    margin-left: 15px;
+    margin-top: -8px;
+
+    height: 29px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
